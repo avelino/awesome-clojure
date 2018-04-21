@@ -291,7 +291,7 @@ anylysis and visualization.*
   * [Neanderthal](https://github.com/uncomplicate/neanderthal)
   * [lucid.graph](http://docs.caudate.me/lucidity/lucid-graph.html)
   * [Streaming Histograms](https://github.com/bigmlcom/histogram)
-  * [Gorilla REPL](http://gorilla-repl.org/)  
+  * [Gorilla REPL](http://gorilla-repl.org/)
 
 ## Machine Learning
 
@@ -322,11 +322,11 @@ anylysis and visualization.*
   * [Instaparse](https://github.com/Engelberg/instaparse)
   * [kern](https://github.com/blancas/kern)
   * [duckling](https://github.com/wit-ai/duckling)
-  
+
 ## Exceptions and Error Handling
   * [Perseverance](https://github.com/grammarly/perseverance)
   * [Dire](https://github.com/MichaelDrogalis/dire)
-  
+
 ## Reflection
 *Libraries for improved code reflection and object introspection
 
@@ -415,6 +415,11 @@ anylysis and visualization.*
 
 ## Twitter
 
+  * [clojuredconf](https://twitter.com/clojuredconf)
+  * [clojurewerkz](https://twitter.com/clojurewerkz)
+  * [functionalworks](https://twitter.com/functionalworks)
+  * [planetclojure](https://twitter.com/planetclojure)
+  * [typedclojure](https://twitter.com/typedclojure)
   * [oss_clj](https://twitter.com/oss_clj)
 
 ## Exercises
@@ -428,5 +433,5 @@ anylysis and visualization.*
   * [Codewars](https://www.codewars.com/kata/search/clojure)
 
 ## Project Management
-  
+
   * [milestones](https://github.com/turbopape/milestones)
